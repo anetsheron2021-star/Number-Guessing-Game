@@ -1,0 +1,1 @@
+A simple and fun Python console game where the computer randomly chooses a number, and the player must guess it using hints. This project demonstrates the use of loops, conditionals, functions, and the random module in Python.
